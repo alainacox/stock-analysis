@@ -15,7 +15,7 @@ In 2017, all of stocks had positive Return except *TERP* (-7.2%). "DQ" made best
 ![](Resources/AllStocks2017.jpg)
 
 
-In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as large Total Daily Volume. Both of them was outperformance than others green stocks.
+In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as large Total Daily Volume. Both of them out performed the others green stocks.
 
 ![](Resources/AllStocks2018.jpg)
 
