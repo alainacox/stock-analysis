@@ -113,7 +113,7 @@ In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as 
 
 End Sub
 
-##Summary
+## Summary
 The advantages of refactoring code were that it took less time run all the data and the program was easier to read.
 The disadvantages is that it does take more time to write, it produced more bugs, and doing that it took more time to get it correct and run.
 The pros about this was it was easy to look at my code and see were I left off at and correct the bugs because alot of them were in the same syntax.
